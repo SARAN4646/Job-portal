@@ -9,7 +9,7 @@ import java.util.List;
 public class OrganizationService {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/job_portal";
     private static final String JDBC_USER = "root";
-    private static final String JDBC_PASSWORD = "Varsh@12";
+    private static final String JDBC_PASSWORD = "Saran@23;
 
     static {
         try {
