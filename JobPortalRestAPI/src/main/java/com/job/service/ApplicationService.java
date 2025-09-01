@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class ApplicationService {
     private static final String URL = "jdbc:mysql://localhost:3306/job_portal";
     private static final String USER = "root";
-    private static final String PASSWORD = "Varsh@12";
+    private static final String PASSWORD = "Saran@23";
 
     static {
         try {
